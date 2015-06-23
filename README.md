@@ -1,0 +1,2 @@
+# coolgit
+Git para coolserver
